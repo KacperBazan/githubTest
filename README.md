@@ -1,4 +1,2 @@
 # githubTest
-Learning how to use github
-
-Addition 1
+Learning how to use github.
