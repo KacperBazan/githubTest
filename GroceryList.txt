@@ -3,3 +3,9 @@ Grocery List:
 Apples
 Bananas
 Carrots
+
+Video Game List:
+
+Dark Souls
+Getting Over It
+Minecraft
