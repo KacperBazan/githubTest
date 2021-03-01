@@ -6,10 +6,7 @@
 	<blockquote>
 		<p><i>I am indented</i></p>
 		<p><b>I am bolded</b></p>
+		<img src=https://img.shields.io/badge/Build-Working-brightgreen> <img src=https://img.shields.io/badge/License-MIT-yellow>
 		<img src=https://img.shields.io/badge/Progress-Incomplete-red>
 	</blockquote>
 </div>
-
-![Alt Text](https://img.shields.io/badge/Build-Working-brightgreen)
-![Alt Text](https://img.shields.io/badge/License-MIT-yellow)
-![Alt Text](https://img.shields.io/badge/Progress-Incomplete-red)
