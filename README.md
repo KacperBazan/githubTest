@@ -1,6 +1,3 @@
-# githubTest
-> Learning how to use github.
-  
 <div align="center">
   <h1>githubTest</h1>
 	<blockquote>
